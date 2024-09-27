@@ -10,28 +10,28 @@ ReAct Agent Chat is a Streamlit-based interactive chat application that allows u
 
 Key Features:
 
-Interactive AI Chat
+- Interactive AI Chat
 
 Users can chat with the AI agent using LLMs such as GPT-4, Claude, or Gemini Pro, and receive detailed responses based on their chosen model.
 
-Image Generation
+- Image Generation
 
 The app offers two powerful AI image generation options: DALL-E 3 for creating images from text and Stable Diffusion XL for high-quality, photorealistic visuals.
 
-Web Search & Scraping
+- Web Search & Scraping
 
 Users can search the web in real time using DuckDuckGo and Tavily APIs, or scrape webpage content via BeautifulSoup.
 
-Session Management
+- Session Management
 
 The app maintains the chat history, tools selected, and generated images using Streamlit's session state for seamless interaction.
 
 Technologies: 
 
-Streamlit: Front-end for the interactive chat application.
+- Streamlit: Front-end for the interactive chat application.
 
-GPT-4, Claude, Gemini Pro: Large language models for text generation.
+- GPT-4, Claude, Gemini Pro: Large language models for text generation.
 
-DALL-E 3, Stable Diffusion XL: AI models for generating and enhancing images.
+- DALL-E 3, Stable Diffusion XL: AI models for generating and enhancing images.
 
-DuckDuckGo, Tavily APIs, BeautifulSoup: Tools for web search and content scraping.
+- DuckDuckGo, Tavily APIs, BeautifulSoup: Tools for web search and content scraping.
