@@ -26,6 +26,9 @@ Users can search the web in real time using DuckDuckGo and Tavily APIs, or scrap
 
 The app maintains the chat history, tools selected, and generated images using Streamlit's session state for seamless interaction.
 
+
+
+
 <bold>Technologies:</bold> 
 
 - Streamlit: Front-end for the interactive chat application.
