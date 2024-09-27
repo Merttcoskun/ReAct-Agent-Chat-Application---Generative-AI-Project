@@ -20,8 +20,12 @@ Users can search the web in real time using DuckDuckGo and Tavily APIs, or scrap
 Session Management
 The app maintains the chat history, tools selected, and generated images using Streamlit's session state for seamless interaction.
 
-Technologies:
+Technologies: 
+
 Streamlit: Front-end for the interactive chat application.
+
 GPT-4, Claude, Gemini Pro: Large language models for text generation.
+
 DALL-E 3, Stable Diffusion XL: AI models for generating and enhancing images.
+
 DuckDuckGo, Tavily APIs, BeautifulSoup: Tools for web search and content scraping.
